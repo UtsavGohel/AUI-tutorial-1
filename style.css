@@ -1,25 +1,28 @@
 .bg-yellow {
-    background-color: #FFEA00;
+  background-color: #ffea00;
 }
-.bg-cyan{
-    background-color: 	#98FB98	;
+.bg-cyan {
+  background-color: #98fb98;
 }
-.bg-dark{
-    background-color: #353935;
+.bg-dark {
+  background-color: #353935;
 }
-.bg-primarycolor{
-    background-color:#0909FF;
+.bg-primarycolor {
+  background-color: #0909ff;
 }
-.bg-orange{
-    background-color:#ffb347;
+.bg-orange {
+  background-color: #ffb347;
+}
+.color-green {
+  background-color: green;
 }
 .form {
-    width: 500px;
-    height: 100px;
-    position: absolute;
-    /* top:0; */
-    /* bottom: 0; */
-    left: 0;
-    right: 0;
-    margin: auto;
+  width: 500px;
+  height: 100px;
+  position: absolute;
+  /* top:0; */
+  /* bottom: 0; */
+  left: 0;
+  right: 0;
+  margin: auto;
 }
